@@ -1,0 +1,12 @@
+/* start contact */
+.contactUs{
+    padding: 60px 0;
+}
+.contactUs .container{
+    display: flex;
+    justify-content: center;
+}
+.contactUs iframe{
+    height: 1500px;
+}
+/* end contact */
